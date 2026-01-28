@@ -7,7 +7,7 @@ import Testimonial from "./components/Testimonial"
 import FAQ from "./components/FAQ"
 import CTA from "./components/CTA"
 import Footer from "./components/Footer"
-import Blog from "./components/BLOG"
+import BlogSection from "./components/BlogSection"
 
 export default function App() {
   return (
@@ -18,7 +18,7 @@ export default function App() {
       <CaseStudies />
       <Testimonial />
       <FAQ />
-      <Blog />
+      <BlogSection />
       <CTA />
       <Footer />
     </>
